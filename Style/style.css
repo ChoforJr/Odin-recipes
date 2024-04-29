@@ -14,5 +14,10 @@ li {
 }
 
 h2{
+    padding-left: 40px;
     font-weight: bold;
+}
+img {
+    display: block;
+    margin: 0 auto;
 }
